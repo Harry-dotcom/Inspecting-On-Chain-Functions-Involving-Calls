@@ -1,7 +1,3 @@
-Certainly! Here's a more detailed and specific example, focusing on the Aave protocol.
-
----
-
 # Introduction
 
 **Protocol Name:** Aave
